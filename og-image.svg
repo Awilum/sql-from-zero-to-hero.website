@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="SQL с нуля до результата">
+  <rect width="1200" height="630" fill="#f3f0eb"/>
+  <rect x="64" y="64" width="1072" height="502" fill="none" stroke="#cfc3ae"/>
+  <text x="108" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="30" fill="#302d29">SQL / FROM ZERO TO HERO</text>
+  <line x1="108" y1="160" x2="1092" y2="160" stroke="#e4dcce"/>
+  <text x="108" y="272" font-family="Georgia, 'Times New Roman', serif" font-size="94" fill="#302d29">SQL</text>
+  <text x="108" y="366" font-family="Georgia, 'Times New Roman', serif" font-size="94" font-style="italic" fill="#9a5b3c">с нуля</text>
+  <text x="108" y="460" font-family="Georgia, 'Times New Roman', serif" font-size="94" fill="#302d29">до героя</text>
+  <text x="108" y="518" font-family="'IBM Plex Mono', Menlo, monospace" font-size="18" fill="#726857">уроки · справочник · песочница SQLite · без регистрации</text>
+
+  <rect x="748" y="218" width="360" height="280" rx="16" fill="#24211e"/>
+  <text x="778" y="258" font-family="'IBM Plex Mono', Menlo, monospace" font-size="16" fill="#e8c37a">SELECT</text>
+  <text x="778" y="290" font-family="'IBM Plex Mono', Menlo, monospace" font-size="16" fill="#f3ede2">  c.name,</text>
+  <text x="778" y="322" font-family="'IBM Plex Mono', Menlo, monospace" font-size="16" fill="#f3ede2">  SUM(oi.quantity * oi.unit_price)</text>
+  <text x="778" y="354" font-family="'IBM Plex Mono', Menlo, monospace" font-size="16" fill="#e8c37a">FROM</text>
+  <text x="778" y="386" font-family="'IBM Plex Mono', Menlo, monospace" font-size="16" fill="#f3ede2">  categories c</text>
+  <text x="778" y="418" font-family="'IBM Plex Mono', Menlo, monospace" font-size="16" fill="#e8c37a">JOIN</text>
+  <text x="778" y="450" font-family="'IBM Plex Mono', Menlo, monospace" font-size="16" fill="#f3ede2">  products p ON p.category_id = c.id</text>
+  <text x="108" y="588" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#655d51">Учебник, справочник и песочница для тех, кто учит SQL по-русски.</text>
+</svg>

@@ -1,0 +1,12 @@
+# Canonical convenience redirects. Cloudflare Pages serves clean URLs from the
+# directory build; these keep old or shortened links from becoming 404s.
+
+/sql            /sandbox/         301
+/editor/        /sandbox/         301
+/stat           /statistics/     301
+/articles       /sandbox/         301
+/articles/*     /sandbox/         301
+/guide          /reference/       301
+/practice/      /sandbox/         301
+/learn/         /sandbox/         301
+/learn/*        /sandbox/         301

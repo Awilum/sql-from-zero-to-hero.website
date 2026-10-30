@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sql-from-zero-to-hero.pages.dev/sitemap-index.xml
