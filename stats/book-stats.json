@@ -1,0 +1,51 @@
+{
+  "totalDownloads": 1315,
+  "releases": [
+    {
+      "tag_name": "v1.0.4",
+      "published_at": "2026-07-17T08:23:18Z",
+      "downloads": 922,
+      "assets": [
+        "sql-introduction.epub",
+        "sql-introduction.pdf"
+      ]
+    },
+    {
+      "tag_name": "v1.0.3",
+      "published_at": "2026-07-04T13:43:09Z",
+      "downloads": 114,
+      "assets": [
+        "sql-introduction.epub",
+        "sql-introduction.pdf"
+      ]
+    },
+    {
+      "tag_name": "v1.0.2",
+      "published_at": "2026-07-04T10:17:11Z",
+      "downloads": 4,
+      "assets": [
+        "sql-introduction.epub",
+        "sql-introduction.pdf"
+      ]
+    },
+    {
+      "tag_name": "v1.0.1",
+      "published_at": "2026-07-02T00:07:14Z",
+      "downloads": 212,
+      "assets": [
+        "sql-introduction.epub",
+        "sql-introduction.pdf"
+      ]
+    },
+    {
+      "tag_name": "v1.0.0",
+      "published_at": "2026-07-01T08:42:42Z",
+      "downloads": 63,
+      "assets": [
+        "sql-introduction.epub",
+        "sql-introduction.pdf"
+      ]
+    }
+  ],
+  "updatedAt": "2026-10-30T17:20:46.408Z"
+}
