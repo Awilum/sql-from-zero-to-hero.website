@@ -9,15 +9,15 @@ Learn step by step through structured educational materials, practical exercises
 No complicated setup. No database installation. Just open your browser and start learning.
 
 <p align="center">
-  <a href="https://sql-from-zero-to-hero.vercel.app/">
+  <a href="https://sql.sergeyromanenko.com/">
     <strong>Explore the Project →</strong>
   </a>
   &nbsp; · &nbsp;
-  <a href="https://sql-from-zero-to-hero.vercel.app/sandbox/">
+  <a href="https://sql.sergeyromanenko.com/sandbox/">
     Interactive SQL Playground
   </a>
   &nbsp; · &nbsp;
-  <a href="https://sql-from-zero-to-hero.vercel.app/roadmap/">
+  <a href="https://sql.sergeyromanenko.com/roadmap/">
     Learning Roadmap
   </a>
 </p>
@@ -59,7 +59,7 @@ The playground runs SQLite using WebAssembly, allowing you to execute queries lo
 
 Your SQL queries and database operations run locally in your browser. They are not uploaded to a backend server.
 
-**Try it:** [Open SQL Playground](https://sql-from-zero-to-hero.vercel.app/sandbox/)
+**Try it:** [Open SQL Playground](https://sql.sergeyromanenko.com/sandbox/)
 
 ### 2. Structured Learning Roadmap
 
@@ -77,7 +77,7 @@ Follow a carefully organized learning path consisting of seven progressive stage
 
 Each stage builds upon the previous one, helping learners develop a solid understanding of SQL rather than simply memorizing individual commands.
 
-**Explore:** [SQL Learning Roadmap](https://sql-from-zero-to-hero.vercel.app/roadmap/)
+**Explore:** [SQL Learning Roadmap](https://sql.sergeyromanenko.com/roadmap/)
 
 ### 3. Practical SQL Exercises
 
@@ -113,7 +113,7 @@ The reference guide provides searchable topics, syntax examples, and important n
 - INSERT, UPDATE, and DELETE.
 - SQL dialect differences.
 
-**Explore:** [SQL Reference](https://sql-from-zero-to-hero.vercel.app/reference/)
+**Explore:** [SQL Reference](https://sql.sergeyromanenko.com/reference/)
 
 ### 5. Online Courses and Educational Programs
 
@@ -133,7 +133,7 @@ Courses include:
 
 The courses complement the website with structured lessons, educational explanations, and additional practical assignments.
 
-**Explore:** [All SQL Courses](https://sql-from-zero-to-hero.vercel.app/courses/)
+**Explore:** [All SQL Courses](https://sql.sergeyromanenko.com/courses/)
 
 ### 6. Educational Books
 
@@ -141,7 +141,7 @@ Additional learning materials provide deeper explanations of SQL concepts and co
 
 The project includes a free introductory SQL book covering relational databases, SELECT statements, filtering, JOIN operations, aggregation, and grouping.
 
-**Explore:** [SQL Books](https://sql-from-zero-to-hero.vercel.app/books/)
+**Explore:** [SQL Books](https://sql.sergeyromanenko.com/books/)
 
 ---
 
@@ -164,9 +164,9 @@ The project is backed by an established collection of educational courses and le
 
 You don't need to install anything to start learning.
 
-1. Visit the [SQL From Zero to Hero website](https://sql-from-zero-to-hero.vercel.app/).
-2. Explore the [learning roadmap](https://sql-from-zero-to-hero.vercel.app/roadmap/).
-3. Open the [interactive SQL playground](https://sql-from-zero-to-hero.vercel.app/sandbox/).
+1. Visit the [SQL From Zero to Hero website](https://sql.sergeyromanenko.com/).
+2. Explore the [learning roadmap](https://sql.sergeyromanenko.com/roadmap/).
+3. Open the [interactive SQL playground](https://sql.sergeyromanenko.com/sandbox/).
 4. Choose an educational database.
 5. Write your first SQL query and execute it.
 6. Continue learning through practical exercises, reference materials, and online courses.
@@ -268,13 +268,13 @@ My work focuses on combining structured education, hands-on practice, and access
 
 | Resource | Link |
 |---|---|
-| Official Website | [sql-from-zero-to-hero.vercel.app](https://sql-from-zero-to-hero.vercel.app/) |
+| Official Website | [sql-from-zero-to-hero.vercel.app](https://sql.sergeyromanenko.com/) |
 | GitHub Repository | [Awilum/sql-from-zero-to-hero.website](https://github.com/Awilum/sql-from-zero-to-hero.website) |
-| SQL Playground | [Open Playground](https://sql-from-zero-to-hero.vercel.app/sandbox/) |
-| Learning Roadmap | [Explore Roadmap](https://sql-from-zero-to-hero.vercel.app/roadmap/) |
-| SQL Reference | [Open Reference](https://sql-from-zero-to-hero.vercel.app/reference/) |
-| Online Courses | [Explore Courses](https://sql-from-zero-to-hero.vercel.app/courses/) |
-| Educational Books | [Explore Books](https://sql-from-zero-to-hero.vercel.app/books/) |
+| SQL Playground | [Open Playground](https://sql.sergeyromanenko.com/sandbox/) |
+| Learning Roadmap | [Explore Roadmap](https://sql.sergeyromanenko.com/roadmap/) |
+| SQL Reference | [Open Reference](https://sql.sergeyromanenko.com/reference/) |
+| Online Courses | [Explore Courses](https://sql.sergeyromanenko.com/courses/) |
+| Educational Books | [Explore Books](https://sql.sergeyromanenko.com/books/) |
 | Author Website | [sergeyromanenko.com](https://sergeyromanenko.com/) |
 
 ---
@@ -282,7 +282,7 @@ My work focuses on combining structured education, hands-on practice, and access
 <p align="center">
   <strong>Start with zero. Learn with purpose. Become a hero.</strong>
   <br /><br />
-  <a href="https://sql-from-zero-to-hero.vercel.app/">
+  <a href="https://sql.sergeyromanenko.com/">
     <strong>Start Learning SQL →</strong>
   </a>
   <br /><br />
