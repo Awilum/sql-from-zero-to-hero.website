@@ -19,4 +19,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://sql-from-zero-to-hero.vercel.app/sitemap-index.xml
+Sitemap: https://sql.sergeyromanenko.com/sitemap-index.xml
