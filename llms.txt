@@ -1,36 +1,91 @@
-# SQL с нуля до результата
+# Sergey Romanenko
 
-> Обучающая экосистема по SQL на русском: бесплатный курс, песочница SQLite в браузере, справочник. Понятный путь от первого SELECT до собеседований.
+> SQL courses — from zero to hero. Detailed explanations, hands-on practice, and step-by-step courses.
 
-Сайт на русском языке. Материалы, справочник и задания доступны без JavaScript.
-Песочница SQL выполняется локально в браузере на SQLite и требует JavaScript.
-Курсы проходят на Stepik; сайт не является официальным продуктом платформы.
+This file is an index of the public work on this site. It is generated from the same
+content the site renders, and every link is absolute. The HTML pages are canonical; a Markdown
+link is a plain-text representation of the same page.
 
-## Основные страницы
+Each canonical page has an `index.md` representation in the same directory (for example,
+`/about/` is also available as `/about/index.md`).
 
-- [Главная](https://sql.sergeyromanenko.com/): обзор проекта и учебного пути.
-- [Курсы](https://sql.sergeyromanenko.com/courses/): каталог из 7 отдельных курсов и программы «SQL с нуля до результата».
-- [Учебный путь](https://sql.sergeyromanenko.com/roadmap/): семь этапов от SELECT до оконных функций.
-- [Песочница](https://sql.sergeyromanenko.com/sandbox/): SQLite, учебные базы «Игроки» и «Интернет-магазин», восемь заданий.
-- [Справочник](https://sql.sergeyromanenko.com/reference/): синтаксис SELECT, WHERE, JOIN, GROUP BY, CTE, оконных функций и DML.
-- [Статистика](https://sql.sergeyromanenko.com/statistics/): источник, методика и снимок от 2 ноября 2026.
-- [О проекте](https://sql.sergeyromanenko.com/about/): автор, редакционные принципы и ограничения.
+## Home
 
-## Курсы
+- [SQL с нуля до результата — уроки, справочник и песочница](https://sql.sergeyromanenko.com/): Структурированный путь изучения SQL: бесплатная книга «SQL Введение», справочник синтаксиса, курсы на Stepik и песочница SQLite в браузере. От базовых SELECT до JOIN, CTE и оконных функций.
+  - [Markdown](https://sql.sergeyromanenko.com/index.md)
 
-- [SQL Введение](https://sql.sergeyromanenko.com/courses/sql-introduction/): Бесплатный курс для первого знакомства с SQL и реляционными базами данных. Вы разберёте, как устроены таблицы, научитесь выбирать, фильтровать и сортировать данные, считать агрегаты и группировать результаты. 19 уроков, 2 805 учащихся, 91 отзыв.
-- [SQL для начинающих](https://sql.sergeyromanenko.com/courses/sql-for-beginners/): Большой системный курс по основам SQL: синтаксис, типы данных, функции, соединения таблиц, подзапросы и изменение данных. Материал построен вокруг MySQL и практики на реальных запросах. 85 уроков, 900 учащихся, 77 отзывов.
-- [Практический Тренажер по SQL](https://sql.sergeyromanenko.com/courses/sql-practical-trainer/): Тренажёр на реальных сценариях: интернет-магазин, адресная книга, отели и игровая платформа. Вы пишете запросы к связанным таблицам и постепенно переходите от простых выборок к аналитике. 26 уроков, 2 300 учащихся, 30 отзывов.
-- [SQL Условная логика](https://sql.sergeyromanenko.com/courses/sql-conditional-logic/): Курс о том, почему условия в SQL работают не так, как кажется: TRUE, FALSE и UNKNOWN, NULL, приоритет операторов, BETWEEN, IN, LIKE и CASE в SELECT, GROUP BY, HAVING и UPDATE. 28 уроков, 593 учащихся, 10 отзывов.
-- [SQL Общие табличные выражения](https://sql.sergeyromanenko.com/courses/sql-common-table-expressions/): Курс о WITH и общих табличных выражениях: как разбить сложный запрос на понятные шаги, заменить вложенные SELECT и подготовить данные к оконным функциям. 17 уроков, 392 учащихся, 17 отзывов.
-- [SQL Оконные функции](https://sql.sergeyromanenko.com/courses/sql-window-functions/): Аналитические возможности SQL: OVER и PARTITION BY, агрегаты как оконные функции, ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD и рамки окна. Для тех, кто уже уверенно пишет JOIN и GROUP BY. 34 урока, 515 учащихся, 22 отзыва.
-- [Проверка знаний и подготовка к собеседованию по SQL](https://sql.sergeyromanenko.com/courses/sql-knowledge-check/): Бесплатный курс-тест по ключевым темам SQL. Вопросы показывают, что вы понимаете, а где остались пробелы, и помогают подготовиться к собеседованию. 17 уроков, 897 учащихся, 33 отзыва.
-- [SQL с нуля до результата](https://sql.sergeyromanenko.com/courses/sql-from-zero-to-hero/): Семь курсов в одной программе: от первого SELECT до условной логики, CTE, оконных функций и практического тренажёра. Одна запись открывает весь путь. 226 уроков, 76 учащихся, 0 отзывов.
+## Courses
 
-## Источники и ограничения
+- [Курсы по SQL: от первого запроса до аналитики](https://sql.sergeyromanenko.com/courses/): Восемь отдельных SQL-курсов и программа «SQL с нуля до результата»: основы, JOIN, условная логика, CTE, оконные функции и подготовка к собеседованию. Проверенные ссылки и актуальная статистика.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/index.md)
+- [SQL Введение](https://sql.sergeyromanenko.com/courses/sql-introduction/): Бесплатный вводный курс по SQL: таблицы, SELECT, фильтрация, сортировка, агрегаты и группировка. 19 уроков и практика на Stepik. Проверенные факты и программа.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/sql-introduction/index.md)
+- [SQL для начинающих](https://sql.sergeyromanenko.com/courses/sql-for-beginners/): Системный курс по основам SQL на MySQL: синтаксис, функции, JOIN, подзапросы и изменение данных. 85 уроков, программа и проверенные факты.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/sql-for-beginners/index.md)
+- [SQL Общие табличные выражения](https://sql.sergeyromanenko.com/courses/sql-common-table-expressions/): Курс об общих табличных выражениях: WITH, разбор сложных запросов на шаги и подготовка к оконным функциям. 17 уроков и проверенные факты.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/sql-common-table-expressions/index.md)
+- [SQL Оконные функции](https://sql.sergeyromanenko.com/courses/sql-window-functions/): Курс по оконным функциям SQL: OVER, PARTITION BY, RANK, LAG, LEAD и рамки окна. 34 урока, программа и проверенные факты на Stepik.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/sql-window-functions/index.md)
+- [SQL с нуля до результата](https://sql.sergeyromanenko.com/courses/sql-from-zero-to-hero/): Программа «SQL с нуля до результата»: семь курсов от основ до оконных функций и подготовки к собеседованию. Состав и проверенные факты.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/sql-from-zero-to-hero/index.md)
+- [SQL Условная логика](https://sql.sergeyromanenko.com/courses/sql-conditional-logic/): Курс о логике условий в SQL: TRUE, FALSE и UNKNOWN, NULL, BETWEEN, IN, LIKE и CASE. 28 уроков, программа и проверенные факты на Stepik.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/sql-conditional-logic/index.md)
+- [Практический Тренажер по SQL](https://sql.sergeyromanenko.com/courses/sql-practical-trainer/): Тренажёр по SQL на сценариях интернет-магазина, отелей и игровой платформы. 26 уроков, JOIN, аналитика и практика. Программа и факты на Stepik.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/sql-practical-trainer/index.md)
+- [Проверка знаний и подготовка к собеседованию по SQL](https://sql.sergeyromanenko.com/courses/sql-knowledge-check/): Бесплатный курс-тест по SQL для подготовки к собеседованию: ключевые темы, пробелы в знаниях и 17 уроков. Проверенные факты и программа.
+  - [Markdown](https://sql.sergeyromanenko.com/courses/sql-knowledge-check/index.md)
 
-- Статистика: публичный API Stepik Stats (https://stepstat.ru/), снимок от 2 ноября 2026.
-- Страницы курсов: https://stepstat.ru/user/561566563.
-- Цены базовые, без промо. Рейтинг программы без подтверждённых отзывов не показывается.
-- Песочница использует SQLite; курсы в основном MySQL. Функции и типы могут различаться.
-- Материалы сторонних платных курсов не копируются и не публикуются.
+## About
+
+- [SQL с нуля до результата: что это за проект](https://sql.sergeyromanenko.com/about/): SQL с нуля до результата: независимый образовательный проект Сергея Романенко. Учебный маршрут, книги, справочник SQL, практика в браузере и проверенные курсы на Stepik.
+  - [Markdown](https://sql.sergeyromanenko.com/about/index.md)
+
+## Site
+
+- [SQL-книги Сергея Романенко](https://sql.sergeyromanenko.com/books/): Две SQL-книги Сергея Романенко: бесплатный вводный учебник с полной теорией онлайн и книга из курса по общим табличным выражениям. Скачивайте, читайте, учитесь.
+  - [Markdown](https://sql.sergeyromanenko.com/books/index.md)
+- [Авторские права и лицензирование](https://sql.sergeyromanenko.com/copyright-and-licensing/): Авторские права на оригинальные материалы сайта SQL с нуля до результата. Правила цитирования, воспроизведения, распространения и использования сторонних компонентов.
+  - [Markdown](https://sql.sergeyromanenko.com/copyright-and-licensing/index.md)
+- [Карта сайта: все разделы и материалы SQL-платформы](https://sql.sergeyromanenko.com/sitemap/): Полная структура образовательной платформы SQL с нуля до результата: курсы, учебный путь, справочник, книги, инструменты и юридическая информация.
+  - [Markdown](https://sql.sergeyromanenko.com/sitemap/index.md)
+- [Конфиденциальность](https://sql.sergeyromanenko.com/privacy/): Какие данные обрабатывает сайт: локальная песочница SQL, отсутствие аккаунтов и трекеров, технические логи хостинга и внешние ссылки.
+  - [Markdown](https://sql.sergeyromanenko.com/privacy/index.md)
+- [Песочница SQL](https://sql.sergeyromanenko.com/sandbox/): Пишите и выполняйте SQL-запросы прямо в браузере. Две учебные базы: интернет-магазин и спортивный магазин. Схема таблиц, задания с подсказками и эталонными решениями. Без регистрации и установки.
+  - [Markdown](https://sql.sergeyromanenko.com/sandbox/index.md)
+- [Политика конфиденциальности](https://sql.sergeyromanenko.com/privacy-policy/): Политика конфиденциальности сайта SQL с нуля до результата. Отсутствие регистрации, форм сбора данных, аналитики и пользовательских баз данных. Локальная работа SQL-песочницы в браузере.
+  - [Markdown](https://sql.sergeyromanenko.com/privacy-policy/index.md)
+- [Справочник по SQL: синтаксис под рукой](https://sql.sergeyromanenko.com/reference/): Шпаргалка по SQL: SELECT, WHERE, JOIN, GROUP BY, CTE, оконные функции, INSERT и DELETE. Короткие примеры для SQLite, копирование и проверка в песочнице.
+  - [Markdown](https://sql.sergeyromanenko.com/reference/index.md)
+- [Статистика без магии](https://sql.sergeyromanenko.com/statistics/): Снимок публичной статистики SQL-курсов Stepik: учащиеся, отзывы, уроки и базовые цены. Источник, дата обновления, ограничения и правила показа данных.
+  - [Markdown](https://sql.sergeyromanenko.com/statistics/index.md)
+- [Условия использования](https://sql.sergeyromanenko.com/terms-of-use/): Условия использования сайта SQL с нуля до результата: правила доступа к образовательным материалам, работы с SQL-песочницей и использования внешних ресурсов.
+  - [Markdown](https://sql.sergeyromanenko.com/terms-of-use/index.md)
+- [Учебный маршрут по SQL: от первого SELECT до продвинутой аналитики](https://sql.sergeyromanenko.com/roadmap/): Последовательный маршрут изучения SQL из семи этапов: SELECT, агрегаты, JOIN, логика и NULL, CTE, оконные функции и подготовка к собеседованию. Теория, практика в браузере и курсы на Stepik.
+  - [Markdown](https://sql.sergeyromanenko.com/roadmap/index.md)
+- [SQL Введение](https://sql.sergeyromanenko.com/books/sql-introduction/): Полная бесплатная книга «SQL Введение» Сергея Романенко. Все главы онлайн: структура данных, SELECT, фильтрация, JOIN, агрегация и практика.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/index.md)
+- [Агрегатные функции](https://sql.sergeyromanenko.com/books/sql-introduction/09-aggregate-functions/): Глава книги «SQL Введение»: Агрегатные функции. Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/09-aggregate-functions/index.md)
+- [Введение в SQL](https://sql.sergeyromanenko.com/books/sql-introduction/03-introduction/): Глава книги «SQL Введение»: Введение в SQL. Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/03-introduction/index.md)
+- [Выборка данных (Оператор SELECT)](https://sql.sergeyromanenko.com/books/sql-introduction/04-querying-data/): Глава книги «SQL Введение»: Выборка данных (Оператор SELECT). Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/04-querying-data/index.md)
+- [Группировка данных (Оператор GROUP BY)](https://sql.sergeyromanenko.com/books/sql-introduction/08-grouping-data/): Глава книги «SQL Введение»: Группировка данных (Оператор GROUP BY). Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/08-grouping-data/index.md)
+- [Об авторе](https://sql.sergeyromanenko.com/books/sql-introduction/11-about/): Глава книги «SQL Введение»: Об авторе. Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/11-about/index.md)
+- [Предисловие](https://sql.sergeyromanenko.com/books/sql-introduction/00-preface/): Глава книги «SQL Введение»: Предисловие. Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/00-preface/index.md)
+- [Псевдонимы (Ключевое слово AS)](https://sql.sergeyromanenko.com/books/sql-introduction/07-aliases/): Глава книги «SQL Введение»: Псевдонимы (Ключевое слово AS). Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/07-aliases/index.md)
+- [Сортировка данных (Оператор ORDER BY)](https://sql.sergeyromanenko.com/books/sql-introduction/05-sorting-data/): Глава книги «SQL Введение»: Сортировка данных (Оператор ORDER BY). Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/05-sorting-data/index.md)
+- [Типы данных](https://sql.sergeyromanenko.com/books/sql-introduction/02-data-types/): Глава книги «SQL Введение»: Типы данных. Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/02-data-types/index.md)
+- [Учебная база данных «Игроки»](https://sql.sergeyromanenko.com/books/sql-introduction/01-database-overview/): Глава книги «SQL Введение»: Учебная база данных «Игроки». Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/01-database-overview/index.md)
+- [Фильтрация данных (Оператор WHERE)](https://sql.sergeyromanenko.com/books/sql-introduction/06-filtering-data/): Глава книги «SQL Введение»: Фильтрация данных (Оператор WHERE). Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/06-filtering-data/index.md)
+- [Что дальше?](https://sql.sergeyromanenko.com/books/sql-introduction/10-summary/): Глава книги «SQL Введение»: Что дальше?. Бесплатный учебник по SQL на русском языке.
+  - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/10-summary/index.md)
+- [Sitemap](https://sql.sergeyromanenko.com/sitemap-index.xml): every indexable HTML page.
