@@ -37,7 +37,7 @@ Each canonical page has an `index.md` representation in the same directory (for 
 
 ## About
 
-- [SQL с нуля до результата: что это за проект](https://sql.sergeyromanenko.com/about/): SQL с нуля до результата: независимый образовательный проект Сергея Романенко. Учебный маршрут, книги, справочник SQL, практика в браузере и проверенные курсы на Stepik.
+- [Сергей Романенко](https://sql.sergeyromanenko.com/about/): SQL с нуля до результата: независимый образовательный проект Сергея Романенко. Автор, его статистика на Stepik, методика данных, редакционные принципы и ограничения.
   - [Markdown](https://sql.sergeyromanenko.com/about/index.md)
 
 ## Site
