@@ -17,23 +17,31 @@ robots: "index, follow, max-image-preview:large"
 
 Снимок
 
-3 ноября 2026
+4 ноября 2026
 
-7 отдельных курсов и 1 программа. Всего 8 483 учащихся и 284 отзывов.
+7 отдельных курсов и 1 программа. Всего 8 523 учащихся и 288 отзывов.
 
 Открыть Stepik Stats →
 
-8 483
+01
+
+8 523
 
 Учащихся, изучающих SQL на Stepik
 
-284
+02
+
+288
 
 Отзывов на SQL курсах
+
+03
 
 226
 
 Уроков в сумме
+
+04
 
 4,86
 
@@ -41,14 +49,14 @@ robots: "index, follow, max-image-preview:large"
 
 | Курс | Тип | Учащиеся | Отзывы | Рейтинг | Уроки | Цена |
 | --- | --- | --- | --- | --- | --- | --- |
-| [SQL с нуля до результата](https://sql.sergeyromanenko.com/courses/sql-from-zero-to-hero/)ID 279994 | Программа | 78 | 0 | — | 226 | Платно |
-| [SQL Введение](https://sql.sergeyromanenko.com/courses/sql-introduction/)ID 290855 | Курс | 2 863 | 94 | 4,91 | 19 | Бесплатно |
-| [SQL для начинающих](https://sql.sergeyromanenko.com/courses/sql-for-beginners/)ID 133728 | Курс | 902 | 77 | 4,75 | 85 | Платно |
-| [Практический Тренажер по SQL](https://sql.sergeyromanenko.com/courses/sql-practical-trainer/)ID 279399 | Курс | 2 302 | 30 | 4,87 | 26 | Платно |
-| [SQL Условная логика](https://sql.sergeyromanenko.com/courses/sql-conditional-logic/)ID 295190 | Курс | 596 | 11 | 5,00 | 28 | Платно |
-| [SQL Общие табличные выражения](https://sql.sergeyromanenko.com/courses/sql-common-table-expressions/)ID 294493 | Курс | 394 | 17 | 4,94 | 17 | Платно |
-| [SQL Оконные функции](https://sql.sergeyromanenko.com/courses/sql-window-functions/)ID 282146 | Курс | 517 | 22 | 4,91 | 34 | Платно |
-| [Проверка знаний и подготовка к собеседованию по SQL](https://sql.sergeyromanenko.com/courses/sql-knowledge-check/)ID 280145 | Курс | 909 | 33 | 4,67 | 17 | Бесплатно |
+| [SQL с нуля до результата](https://sql.sergeyromanenko.com/courses/sql-from-zero-to-hero/)ID 279994 | Программа | 79 | 0 | — | 226 | Платно |
+| [SQL Введение](https://sql.sergeyromanenko.com/courses/sql-introduction/)ID 290855 | Курс | 2 881 | 97 | 4,92 | 19 | Бесплатно |
+| [SQL для начинающих](https://sql.sergeyromanenko.com/courses/sql-for-beginners/)ID 133728 | Курс | 903 | 77 | 4,75 | 85 | Платно |
+| [Практический Тренажер по SQL](https://sql.sergeyromanenko.com/courses/sql-practical-trainer/)ID 279399 | Курс | 2 304 | 30 | 4,87 | 26 | Платно |
+| [SQL Условная логика](https://sql.sergeyromanenko.com/courses/sql-conditional-logic/)ID 295190 | Курс | 597 | 11 | 5,00 | 28 | Платно |
+| [SQL Общие табличные выражения](https://sql.sergeyromanenko.com/courses/sql-common-table-expressions/)ID 294493 | Курс | 395 | 17 | 4,94 | 17 | Платно |
+| [SQL Оконные функции](https://sql.sergeyromanenko.com/courses/sql-window-functions/)ID 282146 | Курс | 520 | 22 | 4,91 | 34 | Платно |
+| [Проверка знаний и подготовка к собеседованию по SQL](https://sql.sergeyromanenko.com/courses/sql-knowledge-check/)ID 280145 | Курс | 923 | 34 | 4,68 | 17 | Бесплатно |
 
 ## Как собираются данные
 
@@ -72,7 +80,7 @@ robots: "index, follow, max-image-preview:large"
 
 Исходные значения можно посмотреть в публичном профиле [StepStat](https://stepstat.ru/user/561566563) и на страницах курсов Stepik.
 
-Дата последнего обновления: 3 ноября 2026. Схема снимка: версия 1.
+Дата последнего обновления: 4 ноября 2026. Схема снимка: версия 1.
 
 Поля снимка
 

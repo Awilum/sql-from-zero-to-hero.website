@@ -21,13 +21,13 @@ robots: "index, follow, max-image-preview:large"
 
 Профиль автора на Stepik →
 
+01
+
 Бесплатно
 
 GitHub
 
-## SQL Введение
-
-[GitHub](https://sql.sergeyromanenko.com/books/sql-introduction/)
+## [SQL Введение](https://sql.sergeyromanenko.com/books/sql-introduction/)
 
 Полная бесплатная книга для первого знакомства с SQL: таблицы, SELECT, фильтрация, JOIN, агрегация, группировка. Все главы доступны для чтения на сайте; также можно скачать в PDF или EPUB с GitHub.
 
@@ -37,11 +37,11 @@ GitHub →
 
 Входит в бесплатный курс [«SQL Введение»](https://stepik.org/a/290855/) на Stepik.
 
+02
+
 В курсе
 
-## SQL Общие табличные выражения
-
-[В курсе](https://stepik.org/a/294493/)
+## [SQL Общие табличные выражения](https://stepik.org/a/294493/)
 
 Книга о WITH и общих табличных выражениях: как разбить сложный запрос на понятные шаги, заменить вложенные SELECT и подготовить данные к оконным функциям.
 

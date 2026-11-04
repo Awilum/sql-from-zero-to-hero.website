@@ -121,7 +121,7 @@ robots: "index, follow, max-image-preview:large"
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: SELECT
 
 ```
 SELECT столбец, выражение AS псевдоним
@@ -135,7 +135,7 @@ LIMIT количество;
 
 SQLite
 
-Копировать
+Копировать — Пример: SELECT
 
 ```
 SELECT name, city
@@ -157,7 +157,7 @@ ORDER BY name;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: WHERE
 
 ```
 WHERE условие
@@ -168,7 +168,7 @@ WHERE условие
 
 SQLite
 
-Копировать
+Копировать — Пример: WHERE
 
 ```
 SELECT name, price
@@ -190,7 +190,7 @@ WHERE price BETWEEN 5000 AND 50000
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: ORDER BY и LIMIT
 
 ```
 ORDER BY столбец ASC | DESC
@@ -201,7 +201,7 @@ LIMIT количество OFFSET пропустить;
 
 SQLite
 
-Копировать
+Копировать — Пример: ORDER BY и LIMIT
 
 ```
 SELECT name, price
@@ -221,7 +221,7 @@ LIMIT 3;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: DISTINCT
 
 ```
 SELECT DISTINCT столбец1, столбец2
@@ -232,7 +232,7 @@ FROM таблица;
 
 SQLite
 
-Копировать
+Копировать — Пример: DISTINCT
 
 ```
 SELECT DISTINCT city
@@ -255,7 +255,7 @@ ORDER BY city;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: GROUP BY и HAVING
 
 ```
 SELECT столбец, COUNT(*) AS количество
@@ -268,7 +268,7 @@ HAVING COUNT(*) > 1;
 
 SQLite
 
-Копировать
+Копировать — Пример: GROUP BY и HAVING
 
 ```
 SELECT status, COUNT(*) AS orders_count
@@ -295,7 +295,7 @@ ORDER BY orders_count DESC;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: JOIN
 
 ```
 FROM левая AS l
@@ -306,7 +306,7 @@ JOIN правая AS r ON r.id = l.foreign_id
 
 SQLite
 
-Копировать
+Копировать — Пример: JOIN
 
 ```
 SELECT c.name, o.ordered_at, o.status
@@ -332,7 +332,7 @@ ORDER BY o.ordered_at DESC;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: NULL
 
 ```
 WHERE столбец IS NULL
@@ -343,7 +343,7 @@ WHERE столбец IS NOT NULL
 
 SQLite
 
-Копировать
+Копировать — Пример: NULL
 
 ```
 SELECT name
@@ -362,7 +362,7 @@ WHERE city IS NULL;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: CASE
 
 ```
 CASE
@@ -375,7 +375,7 @@ END
 
 SQLite
 
-Копировать
+Копировать — Пример: CASE
 
 ```
 SELECT
@@ -399,7 +399,7 @@ FROM products;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: IN, BETWEEN, LIKE
 
 ```
 WHERE столбец IN (значение1, значение2)
@@ -411,7 +411,7 @@ WHERE столбец LIKE 'шаблон%'
 
 SQLite
 
-Копировать
+Копировать — Пример: IN, BETWEEN, LIKE
 
 ```
 SELECT name, city
@@ -435,7 +435,7 @@ WHERE city IN ('Москва', 'Санкт-Петербург')
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: UNION и UNION ALL
 
 ```
 SELECT столбцы FROM таблица1
@@ -448,7 +448,7 @@ ORDER BY столбец;
 
 SQLite
 
-Копировать
+Копировать — Пример: UNION и UNION ALL
 
 ```
 SELECT name AS label FROM customers
@@ -468,7 +468,7 @@ ORDER BY label;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: Подзапросы и CTE
 
 ```
 WITH имя AS (
@@ -482,7 +482,7 @@ FROM имя;
 
 SQLite
 
-Копировать
+Копировать — Пример: Подзапросы и CTE
 
 ```
 WITH paid AS (
@@ -509,7 +509,7 @@ GROUP BY c.id, c.name;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: Оконные функции
 
 ```
 функция(...) OVER (
@@ -522,7 +522,7 @@ GROUP BY c.id, c.name;
 
 SQLite
 
-Копировать
+Копировать — Пример: Оконные функции
 
 ```
 SELECT
@@ -553,7 +553,7 @@ FROM products;
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: INSERT, UPDATE, DELETE
 
 ```
 INSERT INTO таблица (столбцы) VALUES (значения);
@@ -565,7 +565,7 @@ DELETE FROM таблица WHERE условие;
 
 SQLite
 
-Копировать
+Копировать — Пример: INSERT, UPDATE, DELETE
 
 ```
 UPDATE products
@@ -591,7 +591,7 @@ WHERE id = 1
 
 Шаблон синтаксиса
 
-Копировать
+Копировать — Шаблон синтаксиса: Диалекты SQL
 
 ```
 -- SQLite / PostgreSQL / MySQL
@@ -605,7 +605,7 @@ SELECT TOP 10 ...;
 
 SQLite · SQL Server
 
-Копировать
+Копировать — Сравнение: Диалекты SQL
 
 ```
 -- SQLite и PostgreSQL
