@@ -48,8 +48,6 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sql.sergeyromanenko.com/copyright-and-licensing/index.md)
 - [Карта сайта: все разделы и материалы SQL-платформы](https://sql.sergeyromanenko.com/sitemap/): Полная структура образовательной платформы SQL с нуля до результата: курсы, учебный путь, справочник, книги, инструменты и юридическая информация.
   - [Markdown](https://sql.sergeyromanenko.com/sitemap/index.md)
-- [Конфиденциальность](https://sql.sergeyromanenko.com/privacy/): Какие данные обрабатывает сайт: локальная песочница SQL, отсутствие аккаунтов и трекеров, технические логи хостинга и внешние ссылки.
-  - [Markdown](https://sql.sergeyromanenko.com/privacy/index.md)
 - [Песочница SQL](https://sql.sergeyromanenko.com/sandbox/): Пишите и выполняйте SQL-запросы прямо в браузере. Две учебные базы: интернет-магазин и спортивный магазин. Схема таблиц, задания с подсказками и эталонными решениями. Без регистрации и установки.
   - [Markdown](https://sql.sergeyromanenko.com/sandbox/index.md)
 - [Политика конфиденциальности](https://sql.sergeyromanenko.com/privacy-policy/): Политика конфиденциальности сайта SQL с нуля до результата. Отсутствие регистрации, форм сбора данных, аналитики и пользовательских баз данных. Локальная работа SQL-песочницы в браузере.

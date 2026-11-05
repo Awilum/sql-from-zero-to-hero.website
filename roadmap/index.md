@@ -51,7 +51,7 @@ robots: "index, follow, max-image-preview:large"
   ### [SQL Введение](https://sql.sergeyromanenko.com/courses/sql-introduction/)
   Начальный
   19 уроков
-  2 881 учеников
+  2 893 учеников
   ★ 4,92
   Бесплатно
   Подробнее
@@ -67,7 +67,7 @@ robots: "index, follow, max-image-preview:large"
   ### [SQL для начинающих](https://sql.sergeyromanenko.com/courses/sql-for-beginners/)
   Начальный
   85 уроков
-  903 учеников
+  904 учеников
   ★ 4,75
   Платно
   Подробнее
@@ -99,7 +99,7 @@ robots: "index, follow, max-image-preview:large"
   ### [SQL Условная логика](https://sql.sergeyromanenko.com/courses/sql-conditional-logic/)
   Средний
   28 уроков
-  597 учеников
+  599 учеников
   ★ 5,00
   Платно
   Подробнее
@@ -115,7 +115,7 @@ robots: "index, follow, max-image-preview:large"
   ### [SQL Общие табличные выражения](https://sql.sergeyromanenko.com/courses/sql-common-table-expressions/)
   Средний
   17 уроков
-  395 учеников
+  396 учеников
   ★ 4,94
   Платно
   Подробнее
@@ -131,7 +131,7 @@ robots: "index, follow, max-image-preview:large"
   ### [SQL Оконные функции](https://sql.sergeyromanenko.com/courses/sql-window-functions/)
   Продвинутый
   34 урока
-  520 учеников
+  522 учеников
   ★ 4,91
   Платно
   Подробнее
@@ -147,7 +147,7 @@ robots: "index, follow, max-image-preview:large"
   ### [Проверка знаний и подготовка к собеседованию по SQL](https://sql.sergeyromanenko.com/courses/sql-knowledge-check/)
   Средний
   17 уроков
-  923 учеников
+  926 учеников
   ★ 4,68
   Бесплатно
   Подробнее
