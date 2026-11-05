@@ -33,6 +33,7 @@ robots: "index, follow, max-image-preview:large"
     - [Структура](https://sql.sergeyromanenko.com/roadmap/#stage-5) — SQL Общие табличные выражения
     - [Аналитика](https://sql.sergeyromanenko.com/roadmap/#stage-6) — SQL Оконные функции
     - [Проверка](https://sql.sergeyromanenko.com/roadmap/#stage-7) — Проверка знаний и подготовка к собеседованию по SQL
+  - [Отзывы](https://sql.sergeyromanenko.com/reviews/) — Отзывы учащихся о SQL-курсах: реальные впечатления без правок и сокращений
   - [Песочница SQL](https://sql.sergeyromanenko.com/sandbox/) — SQLite в браузере с учебными базами
   - [Справочник SQL](https://sql.sergeyromanenko.com/reference/) — Синтаксис SELECT, WHERE, JOIN, GROUP BY, CTE, оконные функции и другие темы
     - [SELECT](https://sql.sergeyromanenko.com/reference/#select) — Выбирает столбцы и вычисляемые выражения из таблицы.

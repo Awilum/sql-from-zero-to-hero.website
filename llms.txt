@@ -60,6 +60,8 @@ Each canonical page has an `index.md` representation in the same directory (for 
   - [Markdown](https://sql.sergeyromanenko.com/terms-of-use/index.md)
 - [Учебный маршрут по SQL: от первого SELECT до продвинутой аналитики](https://sql.sergeyromanenko.com/roadmap/): Последовательный маршрут изучения SQL из семи этапов: SELECT, агрегаты, JOIN, логика и NULL, CTE, оконные функции и подготовка к собеседованию. Теория, практика в браузере и курсы на Stepik.
   - [Markdown](https://sql.sergeyromanenko.com/roadmap/index.md)
+- [Что говорят учащиеся](https://sql.sergeyromanenko.com/reviews/): Отзывы учащихся о SQL-курсах Сергея Романенко на Stepik: реальные впечатления без правок и сокращений — чему научились и что дало результаты. Выберите курс и начните учиться.
+  - [Markdown](https://sql.sergeyromanenko.com/reviews/index.md)
 - [SQL Введение](https://sql.sergeyromanenko.com/books/sql-introduction/): Полная бесплатная книга «SQL Введение» Сергея Романенко. Все главы онлайн: структура данных, SELECT, фильтрация, JOIN, агрегация и практика.
   - [Markdown](https://sql.sergeyromanenko.com/books/sql-introduction/index.md)
 - [Агрегатные функции](https://sql.sergeyromanenko.com/books/sql-introduction/09-aggregate-functions/): Глава книги «SQL Введение»: Агрегатные функции. Бесплатный учебник по SQL на русском языке.
